@@ -11,7 +11,7 @@ const intro = [
 const about = [
   {
     lottieURL:
-      "https://lottie.host/4cd315a8-7321-4684-8941-f5661bd17891/PbKhCG39LH.json",
+      "https://www.munich-business-school.de/insights/wp-content/uploads/2022/12/Werkstudent_Blog-678x381.jpg",
     description1:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium voluptas, magnam necessitatibus mollitia, tenetur autem quo veniam dolores repellat soluta quos voluptatem. Perspiciatis, porro numquam.",
     description2:
